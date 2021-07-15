@@ -19,7 +19,9 @@
 }
 .boom {
     background-color: red;
+    border-radius: 50%;
 }
 .laser {
     background-color: orange;
+    border-radius: 50%;
 }
